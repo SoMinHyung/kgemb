@@ -1,0 +1,7 @@
+boto3
+scikit-learn
+numpy
+pandas
+torch
+dgl==0.4.3
+dglke
